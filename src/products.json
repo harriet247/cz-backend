@@ -1,0 +1,52 @@
+[
+    {
+        "productID":1,
+        "productName":"Red Roses Bouquet",
+        "price":30
+    },
+    {
+        "productID":2,
+        "productName":"Box of cholocates",
+        "price":10
+    },
+    {
+        "productID":3,
+        "productName":"Love card",
+        "price":20
+    },
+    {
+        "productID":4,
+        "productName":"Women's perfume",
+        "price":300
+    },
+    {
+        "productID":5,
+        "productName":"Birthday cupcake",
+        "price":40
+    },
+    {
+        "productID":6,
+        "productName":"$100 Visa Gift Card",
+        "price":100
+    },
+    {
+        "productID":7,
+        "productName":"Birthday card",
+        "price":10
+    },
+    {
+        "productID":8,
+        "productName":"Bottle of wine",
+        "price":100
+    },
+    {
+        "productID":9,
+        "productName":"Fruit basket",
+        "price":100
+    },
+    {
+        "productID":10,
+        "productName":"Pen",
+        "price":40
+    }
+]

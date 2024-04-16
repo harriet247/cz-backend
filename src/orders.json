@@ -1,0 +1,113 @@
+[
+    {
+        "orderID":1234,
+        "orderTotal":360,
+        "orderDate":"2024-01-01",
+        "shippingAddress":"123 W Broadway",
+        "customerName":"John Doe",
+        "customerEmail":"JohnDoe123@gmail.com",
+        "lineItems":[
+            {
+                "lineItemID":1,
+                "productID":1,
+                "productName":"Red Roses Bouquet",
+                "price":30
+            },
+            {
+                "lineItemID":1,
+                "productID":2,
+                "productName":"Box of Cholocates",
+                "price":10
+            },
+            {
+                "lineItemID":1,
+                "productID":3,
+                "productName":"Love Card",
+                "price":20
+            },
+            {
+                "lineItemID":1,
+                "productID":4,
+                "productName":"Women's Perfume",
+                "price":300
+            }
+        ]
+    },
+    {
+        "orderID":1231,
+        "orderTotal":240,
+        "orderDate":"2024-02-01",
+        "shippingAddress":"123 W Pender St.",
+        "customerName":"John Smith",
+        "customerEmail":"JohnSmith222@gmail.com",
+        "lineItems":[{
+            "lineItemID":3,
+            "productID":8,
+            "productName":"Bottle of wine",
+            "price":100
+        },
+        {
+            "lineItemID":3,
+            "productID":9,
+            "productName":"Fruit basket",
+            "price":100
+        },
+        {
+            "lineItemID":3,
+            "productID":10,
+            "productName":"Pen",
+            "price":40
+        }]
+    },
+    {
+        "orderID":1230,
+        "orderTotal":600,
+        "orderDate":"2024-02-11",
+        "shippingAddress":"555 Dundas St.",
+        "customerName":"Jake Smith",
+        "customerEmail":"JSmith@yahoo.com",
+        "lineItems":[
+        {
+            "lineItemID":1,
+            "productID":1,
+            "productName":"Red Roses Bouquet",
+            "price":30
+        },
+        {
+            "lineItemID":1,
+            "productID":2,
+            "productName":"Box of Cholocates",
+            "price":10
+        },
+        {
+            "lineItemID":1,
+            "productID":3,
+            "productName":"Love Card",
+            "price":20
+        },
+        {
+            "lineItemID":1,
+            "productID":4,
+            "productName":"Women's Perfume",
+            "price":300
+        },
+        {
+            "lineItemID":3,
+            "productID":8,
+            "productName":"Bottle of wine",
+            "price":100
+        },
+        {
+            "lineItemID":3,
+            "productID":9,
+            "productName":"Fruit basket",
+            "price":100
+        },
+        {
+            "lineItemID":3,
+            "productID":10,
+            "productName":"Pen",
+            "price":40
+        }]
+    }
+]
